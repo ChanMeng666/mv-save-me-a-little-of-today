@@ -30,7 +30,7 @@ The finished MP4 is not in the tree (about 500 MB). Render it with the commands 
 
 ## How it is made
 
-The pipeline is the one built for [A Coffee for One](https://github.com/ChanMeng666/solo-coffee-mv), the same three steps as painting backgrounds, shooting them and printing the film.
+The pipeline is the one built for [A Coffee for One](https://github.com/ChanMeng666/mv-a-coffee-for-one), the same three steps as painting backgrounds, shooting them and printing the film.
 
 ### 1. Paint (Python, `films/today/paint/`)
 
